@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+Object {
+  "categories": Array [
+    Object {
+      "description": "Portraits of people in my life",
+      "name": "portraits",
+    },
+  ],
+}
+`;
